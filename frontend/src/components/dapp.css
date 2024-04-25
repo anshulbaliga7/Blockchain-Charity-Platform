@@ -1,0 +1,35 @@
+/* Dapp.css */
+.container {
+    background-color: yellowgreen; /* Light grey background */
+    color: #333; /* Dark text */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    height: 100vh; /* Full viewport height */
+    display: flex; /* Enable Flexbox */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    flex-direction: column; /* Stack children vertically */
+   }
+
+   
+   .row {
+    margin-bottom: 20px;
+   }
+   
+   .col-12 {
+    padding: 10px;
+   }
+   
+   p {
+    font-size: 18px;
+   }
+   
+   code {
+    background-color: blue; /* Light grey background for code */
+    padding: 5px;
+    border-radius: 5px;
+   }
+   
+   /* Add more styles as needed */
+   
